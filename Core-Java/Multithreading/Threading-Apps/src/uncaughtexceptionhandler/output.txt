@@ -1,0 +1,14 @@
+123
+234
+345
+An exception has been captured
+Thread: 11
+Exception: java.lang.NumberFormatException: For input string: "XYZ"
+Stack Trace: 
+java.lang.NumberFormatException: For input string: "XYZ"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.base/java.lang.Integer.parseInt(Integer.java:652)
+	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+	at com.exam02.Task.run(Task.java:10)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+Thread status: RUNNABLE

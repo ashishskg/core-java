@@ -1,0 +1,41 @@
+# Ignore all hidden files and folders (starting with .)
+.*
+!.gitignore
+
+# macOS system files
+.DS_Store
+
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+target/
+
+# Gradle build directories
+build/
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo

@@ -1,0 +1,8 @@
+Result for number - 4 -> 24
+Future result is -  - 24; And Task done is true
+Result for number - 7 -> 5040
+Future result is -  - 5040; And Task done is true
+Result for number - 2 -> 2
+Result for number - 9 -> 362880
+Future result is -  - 362880; And Task done is true
+Future result is -  - 2; And Task done is true
